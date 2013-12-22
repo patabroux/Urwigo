@@ -1,0 +1,14 @@
+20130815154701|0.00000|0.00000|0.000|0.000|Engine Version 2.11, Player Name: Mr. Smith, Device ID: Desktop
+20130815154701|0.00000|0.00000|0.000|0.000|ZCartridge:Start - Downloaded Thu Aug 15 16:46:53 2013
+20130815154701|0.00000|0.00000|0.000|0.000|MessageBox:Show - Nous voila partis pour une nouvelle aventure!
+20130815154703|45.80133|4.73300|0.000|1.000|MessageBox:Callback - [Button1] No script to execute
+20130815154738|45.80351|4.73116|0.000|1.000|Zone:Enter - Centre equestre
+20130815154738|45.80351|4.73116|0.000|1.000|PlayAudio - Hennissement
+20130815154738|45.80351|4.73116|0.000|1.000|AttributeChanged - Atteindre le centre equestre, Complete
+20130815154752|45.79910|4.72888|0.000|1.000|Zone:Exit - Centre equestre
+20130815154752|45.79910|4.72888|0.000|1.000|Zone:NotInRange - Centre equestre
+20130815154757|45.78815|4.73163|0.000|1.000|Zone:Enter - Casino
+20130815154757|45.78815|4.73163|0.000|1.000|ShowScreen - Details for Centre equestre
+20130815154757|45.78815|4.73163|0.000|1.000|PlayAudio - Hennissement
+20130815154757|45.78815|4.73163|0.000|1.000|MessageBox:Show - Felicitations! Vous avez termine la tache : Atteindre le centre equestre
+20130815154757|45.78815|4.73163|0.000|1.000|AttributeChanged - Atteindre le casino, Complete
